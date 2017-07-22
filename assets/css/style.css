@@ -1,0 +1,60 @@
+body {
+  background-color: black;
+}
+
+h2{
+  color: red;
+}
+#title{
+  color: red;
+  font-size: 90px;
+}
+.row {
+  text-align: center;
+}
+.jumbotron{
+  
+  opacity: 0.4;
+  height: 80%;
+  width: 70%;
+  margin:5% 0 5% 3.5%;
+}
+#startButton{
+  width: 200px;
+  height: 40px;
+  font-size: 20px;
+}
+#restartButton{
+  width: 200px;
+  height: 40px;
+  font-size: 20px;
+  display: none;
+}
+.questions{
+  color: red;
+  font-size: 30px;
+}
+.answers {
+  color: red;
+  font-size: 30px;
+}
+.ahover:hover {
+  background-color: grey;
+}
+.score{
+  color: red;
+  font-size: 30px;
+}
+#pickMade{
+  color: white;
+}
+#time{
+  display: none;
+}
+.color{
+  color: red;
+}
+.picked{
+  color:red;
+  font-size: 40px;
+}
